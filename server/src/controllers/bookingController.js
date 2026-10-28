@@ -333,3 +333,4 @@ exports.getAllBookings = async (req, res, next) => {
     next(error);
   }
 };
+

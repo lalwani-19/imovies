@@ -29,3 +29,4 @@ const LoadingSpinner = ({ text = 'Loading...', fullScreen = false }) => {
 };
 
 export default LoadingSpinner;
+

@@ -15,3 +15,4 @@ router.route('/:id')
   .get(getTheatreById);
 
 module.exports = router;
+

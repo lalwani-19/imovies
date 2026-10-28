@@ -200,3 +200,4 @@ exports.deleteMovie = async (req, res, next) => {
     next(error);
   }
 };
+

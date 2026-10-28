@@ -38,3 +38,4 @@ Thumbs.db
 
 # In-memory mongo cache (if stored locally)
 .cache/
+

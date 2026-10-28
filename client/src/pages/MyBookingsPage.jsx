@@ -206,3 +206,4 @@ const MyBookingsPage = () => {
 };
 
 export default MyBookingsPage;
+

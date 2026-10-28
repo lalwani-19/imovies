@@ -18,3 +18,4 @@ router.patch('/:id/cancel', protect, cancelBooking);
 router.get('/', protect, authorize('admin'), getAllBookings);
 
 module.exports = router;
+

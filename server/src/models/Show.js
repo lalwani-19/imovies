@@ -103,3 +103,4 @@ showSchema.index({ movie: 1, date: 1, status: 1 });
 showSchema.index({ theatre: 1, date: 1 });
 
 module.exports = mongoose.model('Show', showSchema);
+

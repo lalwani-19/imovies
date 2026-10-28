@@ -20,3 +20,4 @@ router.route('/:id')
 router.get('/:id/seats', getShowSeats);
 
 module.exports = router;
+

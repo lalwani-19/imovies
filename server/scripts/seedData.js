@@ -365,3 +365,4 @@ const seedDataInline = async () => {
 };
 
 module.exports = { seedDataInline, moviesData, theatresData };
+

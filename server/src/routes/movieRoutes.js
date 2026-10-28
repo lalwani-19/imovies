@@ -22,3 +22,4 @@ router.route('/:id')
 router.get('/:id/shows', getMovieShows);
 
 module.exports = router;
+

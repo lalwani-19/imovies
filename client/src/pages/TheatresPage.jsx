@@ -132,3 +132,4 @@ const TheatresPage = () => {
 };
 
 export default TheatresPage;
+

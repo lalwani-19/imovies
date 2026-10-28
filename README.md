@@ -523,3 +523,4 @@ Before submitting to SkillWallet, review this quick verification checklist:
 ---
 
 *Crafted with passion for cinema by the iMovies Engineering Team.*
+

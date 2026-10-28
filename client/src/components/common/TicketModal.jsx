@@ -140,3 +140,4 @@ const TicketModal = ({ booking, onClose }) => {
 };
 
 export default TicketModal;
+
